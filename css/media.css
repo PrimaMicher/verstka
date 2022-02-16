@@ -1,0 +1,138 @@
+@media screen and (max-width: 480px) {
+
+    .header__top__menu, .first__screen__right, .second__screen_left, .sixth__screen__right {
+        display: none;
+    }
+
+.wrapper {
+    padding: 0 20px;
+}
+.first__screen__left h1{
+    font-size: 60px;
+    line-height: 70px;
+}
+.first__screen__button {
+    position: initial;
+    margin: 50px auto 0;
+}
+.first_screen{
+    padding-bottom: 50px;
+    background: teal;
+    height: 100vh;
+
+}
+
+.first__screen__left p {
+    color: #ffffff;
+}
+
+.button__mobile {
+    display: flex;
+}
+.second__screen_right h2 {
+    font-size: 45px;
+    line-height: 50px;
+}
+.top__name h2{
+    font-size: 45px;
+    line-height: 50px;
+
+}
+
+.third__block__im img{
+    /*display: none;*/
+    padding-left: 100px;
+}
+
+.third__block__pic {
+    display: block;
+
+}
+.third__block__im h3{
+    font-size:30px;
+    line-height: 45px;
+}
+.third__screen__button {
+    position: initial;
+    margin: 50px 100px 0;
+}
+.fourth__block__img img {
+    padding-left: 100px;
+}
+
+.fourth__screen__top__name h3{
+    font-size:40px;
+    line-height: 45px;
+}
+
+.fourth__block {
+    display: block;
+}
+
+.company__block {
+    display: block;
+}
+.comp__left {
+    padding-bottom: 50px;
+}
+.logo {
+    display:flex;
+    flex-wrap: wrap;
+
+
+}
+.sixth__screen__right h2 {
+    font-size:45px;
+    line-height: 50px;
+
+}
+
+.sixth__screen__button {
+    position: initial;
+    text-align: center;
+    margin: 50px auto 0;
+}
+.seventh__screen {
+    display: block;
+    padding-top: 20px;
+    margin-left: 0;
+    max-width: 480px;
+}
+.seventh__screen__left h2 {
+
+    width:450px ;
+    font-size: 45px;
+    line-height: 50px;
+}
+.seventh__screen__right {
+    position: initial;
+    text-align: center;
+    margin: 50px auto 0;
+}
+
+.last__text {
+    flex-wrap: wrap;
+    /*margin-right: 8%;*/
+    /*max-width: 480px;*/
+}
+
+.last__mini__block {
+    width: 24%;
+}
+.last__mini__block h5{
+    font-size: 9px;
+    line-height: 15px;
+}
+
+.last__mini__block p{
+    font-size: 8px;
+    line-height: 8px;
+}
+.the__end__txt p{
+    font-size: 8px;
+    line-height: 11px;
+}
+.the__end__logo {
+    margin-left: 230px;
+}
+}
